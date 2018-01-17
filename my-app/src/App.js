@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Header';
 import Footer from './Footer';
+import Logo from './Logo';
 
 class App extends Component {
   render() {
@@ -11,8 +12,8 @@ class App extends Component {
           <div>
             <Header />
           </div>
-        </p>
-        <div>
+        </p>      
+        <div className="App-intro">
           <Footer />
         </div>
       </div>
