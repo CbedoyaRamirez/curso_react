@@ -9,11 +9,11 @@ class Menu extends React.Component {
         }
     }
     render() {
-        return (
+        return ( 
             <Navbar>
                 <Navbar.Header className="navbar-header, before">
                     <Navbar.Brand className="navbar-brand">
-                        <a href="#home">React-Bootstrap</a>
+                        <a href="#home">PaloSanto "Memorias en yeso"</a>
                     </Navbar.Brand>
                 </Navbar.Header>
                 <Nav className="nav navbar-nav">
@@ -30,6 +30,9 @@ class Menu extends React.Component {
                         <MenuItem divider />
                         <MenuItem eventKey={3.4}>Separated link</MenuItem>
                     </NavDropdown>
+                    <NavItem eventKey={4} href="#">
+                        Link
+			        </NavItem>                     
                 </Nav>
             </Navbar>
         )
