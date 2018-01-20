@@ -1,10 +1,11 @@
 import React from 'react'
+import './Logo.css';
 
 import logotipo from '../images/LogoTransparentePequeno2.png'
 const LogoPalosanto = () => {
     return(
-        <div className="App-logo">
-            <img src={ logotipo }  />
+        <div >
+            <img src={ logotipo } className="logo" />
         </div>
     )
 }

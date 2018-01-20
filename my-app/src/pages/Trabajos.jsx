@@ -8,7 +8,7 @@ class Trabajos extends Component {
     return (
       <div>
         <Navbar />
-        <Jumbotron title="Trabajos" subtitle="This page is all about me and my work!"/>
+        <Jumbotron />
         <div className="container">
             <h2>Trabajos</h2>
         </div>

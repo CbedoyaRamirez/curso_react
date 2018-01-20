@@ -10,13 +10,30 @@ class Home extends Component {
         <Navbar />
         <Jumbotron  />
         <div className="container">
-          <h2>Welcome</h2>
+          <h2>"Memorias en yeso"</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat orci eu nulla sagittis, pulvinar dignissim lectus consequat. Etiam in lobortis ligula, vitae ornare lacus. Vivamus scelerisque lorem arcu, vitae eleifend ex commodo a. Quisque rutrum, augue sit amet egestas efficitur, magna nulla lacinia elit, sed suscipit tortor erat vitae enim. Donec egestas odio id aliquet rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque mi dolor, egestas nec lacinia non, sodales eu lacus. Donec ultricies nec elit ac ornare. Quisque fermentum ligula ut feugiat cursus. Aliquam auctor suscipit ex a lacinia. Mauris sollicitudin, justo quis fringilla finibus, dui diam ullamcorper nulla, sit amet placerat justo neque quis quam. Praesent nec nibh at tortor ornare dignissim. Morbi tincidunt fringilla turpis at luctus. Vivamus dapibus ligula eget pellentesque luctus. Maecenas ut consectetur lacus, non dignissim nisi. Praesent sodales tellus sit amet faucibus tempus.
+            Bienvenido a PaloSanto Memorias en Yeso, nos divertimos (trabajando)
+            haciendo esculturas de fundición corporal y regalos hechos a medida. En
+            PaloSanto nos enorgullecemos de crear esculturas Lifecast bellísimas y cada una
+            de ellas tan única como tú.
+            PaloSanto Memorias en Yeso es una empresa joven, de las pocas que
+            encontraras en Colombia, pero con un alto sentido de la responsabilidad y el
+            servicio, en la que te encontraras con unas manos seguras, capaces y
+            afectuosas durante todo el proceso… entregándote no solo una hermosa obra de
+            arte para ser apreciada por generaciones, sino también algunos recuerdos
+            maravillosos, divertidos y felices.
+            Nos ocupamos de la fundición en yeso y otros materiales de todas y cada una de
+            las partes del cuerpo. Desde los moldes populares de manos y pies para bebés,
+            moldes para grupos familiares, moldes para parejas, yeso para embarazadas,
+            bustos, moldes faciales e incluso cuerpos completos. Ofrecemos un servicio de
+            fundición en bronce, junto con esculturas de metal fundido en frío, metales
+            galvanizados y hermosos moldes de cristal.
+            Cuando pienses en perpetuar un recuerdo hermoso o simplemente para divertirte
+            un poco, PaloSanto Memorias en Yeso es la mejor opción para crear el regalo
+            más precioso que te hayas dado a ti o a tus seres queridos: los recuerdos de hoy
+            se convierten en las reliquias del mañana. ¡Toda la vida es hermosa!
           </p>
-          <p>
-            Maecenas dapibus, est posuere eleifend rutrum, lectus ligula gravida urna, at pretium dui turpis non lorem. Donec pretium lorem ipsum, at fermentum nibh consequat facilisis. Sed maximus massa est, vel porta diam placerat id. Vivamus imperdiet lorem eget dolor bibendum, eget gravida tellus interdum. Sed lectus odio, condimentum eu porttitor vel, euismod sit amet urna. Nam quis dui a nibh rhoncus aliquam vitae in metus. Nam sit amet semper turpis. Suspendisse eu malesuada tortor, vel lacinia nisl. Phasellus ultrices vehicula magna, sed tempor neque dapibus quis. Phasellus urna justo, sollicitudin ac odio eget, convallis varius nulla. Vivamus in lacinia lorem, at eleifend nulla. Nulla nec luctus purus. Integer id purus mauris. Phasellus finibus ultricies erat a tempus. Nulla luctus sem nec justo venenatis, eu faucibus purus congue.
-          </p>
+
         </div>
         <Footer />
       </div>
