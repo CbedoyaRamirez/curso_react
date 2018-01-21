@@ -1,0 +1,36 @@
+.products {
+      display: 'flex';
+      align-Items: 'stretch';
+      flex-Wrap: 'wrap';
+    }
+
+.product {  
+      width: '220px';
+      height: '7px';  
+      background: '0';
+      margin-Left: 10;
+      margin-Right: 10;
+      background-size: 25px 50px;
+    }
+
+   .galeria {
+      width: 90%;
+      margin: auto;
+      list-style: none;
+      padding: 20px;
+      box-sizing: border-box;
+      
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  
+
+    .galeria li {
+      margin: 5px;
+    }
+
+    .galeria img {
+      width: 150px;
+      height: 100px;
+    }
